@@ -1,0 +1,6 @@
+{ 
+  "name": "attendance-web", 
+  "scripts": { 
+    "vercel-build": "bash build.sh" 
+  } 
+} 
