@@ -1,0 +1,14 @@
+{
+  "dart.flutterSdkPath": "C:\\flutter",
+  "dart.sdkPath": "C:\\Users\\Administrator\\Desktop\\atdm",
+  "dart.analysisExcludedFolders": [
+    "atdm/.dart_tool",
+    "atdm/build",
+    "atdm/windows/flutter/ephemeral",
+    "atdm/ios/Flutter/ephemeral",
+    "atdm/linux/flutter/ephemeral",
+    "atdm/macos/Flutter/ephemeral"
+  ],
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
